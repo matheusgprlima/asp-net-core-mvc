@@ -28,3 +28,8 @@ C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\ob
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.dll
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.pdb
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.csproj.CopyComplete
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
