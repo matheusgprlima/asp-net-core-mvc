@@ -28,3 +28,4 @@ C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\ob
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.dll
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.pdb
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\SalesWebMVC.csproj.CopyComplete
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
