@@ -33,3 +33,8 @@ C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\ob
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.g.cshtml.cs
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
 C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Create.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Delete.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Edit.g.cshtml.cs
+C:\Users\Matheus Gomes\Desktop\Trance eletrohits\ASP.NET Core MVC\SalesWebMVC\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Index.g.cshtml.cs
